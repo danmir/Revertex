@@ -1,0 +1,6 @@
+framework module Pods_revertex {
+  umbrella header "Pods-revertex-umbrella.h"
+
+  export *
+  module * { export * }
+}

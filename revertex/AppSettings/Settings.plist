@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataUrlContent</key>
+	<string>Enter dataUrlContent</string>
+	<key>dataUrlIndex</key>
+	<string>Enter dataUrlIndex</string>
+	<key>testParseServer</key>
+	<string>http://127.0.0.1:1337/parsetest</string>
+	<key>testParseClientKey</key>
+	<string>testKey</string>
+	<key>testParseApplicationId</key>
+	<string>APP_ID_TEST</string>
+	<key>parseServer</key>
+	<string>Enter Parse Api</string>
+	<key>parseClientKey</key>
+	<string>key</string>
+	<key>parseApplicationId</key>
+	<string>id</string>
+</dict>
+</plist>

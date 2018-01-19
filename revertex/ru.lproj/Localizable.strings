@@ -1,0 +1,7 @@
+/* 
+  Localizable.strings
+  Created by Danil Mironov on 17.01.18.
+  
+*/
+"Account already exists for this username." = "Такой email уже занят.";
+"Invalid username/password." = "Неверный email/пароль.";

@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Bolts/Tasks (1.8.4)
+  - JSONHelper (2.2.0)
+  - NVActivityIndicatorView (4.1.0):
+    - NVActivityIndicatorView/Presenter (= 4.1.0)
+  - NVActivityIndicatorView/Presenter (4.1.0)
+  - Parse (1.15.3):
+    - Bolts/Tasks (~> 1.8)
+  - Realm (3.0.2):
+    - Realm/Headers (= 3.0.2)
+  - Realm/Headers (3.0.2)
+  - RealmSwift (3.0.2):
+    - Realm (= 3.0.2)
+  - SwiftSpinner (1.5.0)
+  - SwiftyJSON (4.0.0)
+  - SwiftyStoreKit (0.11.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - JSONHelper
+  - NVActivityIndicatorView
+  - Parse
+  - RealmSwift
+  - SwiftSpinner
+  - SwiftyJSON
+  - SwiftyStoreKit
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  JSONHelper: 340bf5d996f51fb9a0a001fbce9e27a81216e1a7
+  NVActivityIndicatorView: dc4726052dc24e89fa8576d43acf9e96f61d49db
+  Parse: cdc0f1f975ee8be0409e66f21b05df4ae067047c
+  Realm: 6f23fd1f178a09342eac21bfa7c2bf4312a7a180
+  RealmSwift: 695393add1b8f9d5fa75dd16e6355cf3935f71e2
+  SwiftSpinner: 4c058c7a1d6b444dd2e1d70988ead40783097133
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  SwiftyStoreKit: c5cb38110cb01b55b9c5f25d7f69d0083650b2a4
+
+PODFILE CHECKSUM: 53f53d6de98c3cd50234100e2300cba8049df01e
+
+COCOAPODS: 1.2.1
